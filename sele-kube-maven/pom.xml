@@ -49,7 +49,7 @@
   					</descriptorRefs>
   					<archive>
   						<manifest>
-  							<mainClass>demojar.SeleniumMain.java</mainClass>
+  							<mainClass>demojar.SeleniumMain</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
